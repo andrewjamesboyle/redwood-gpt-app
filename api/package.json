@@ -4,6 +4,10 @@
   "private": true,
   "dependencies": {
     "@redwoodjs/api": "5.1.5",
-    "@redwoodjs/graphql-server": "5.1.5"
+    "@redwoodjs/graphql-server": "5.1.5",
+    "@whatwg-node/fetch": "^0.9.0",
+    "install": "^0.13.0",
+    "npm": "^9.6.6",
+    "openai": "^3.2.1"
   }
 }
